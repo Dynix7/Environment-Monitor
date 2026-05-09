@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AGS10") (type "KiCad") (uri "/home/dynix/Documents/KiCadProjects/Environment-Monitor/Libraries/AGS10/AGS10.pretty") (options "") (descr ""))
+)
