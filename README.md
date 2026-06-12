@@ -8,6 +8,7 @@ Not surprisingly I spend a lot of time sitting indoors in my room on my computer
 ![alt text](board.png)
 ![alt text](image.png)
 ![alt text](image2.png)
+![alt text](image3.png)
 
 # BOM
 |Name             |Purpose                           |Quantity|Total Cost (USD)|Link                                                                                                                                                            |Distributor|
